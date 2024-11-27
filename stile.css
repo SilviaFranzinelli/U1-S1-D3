@@ -1,0 +1,71 @@
+header {
+    text-align: center;
+
+}
+
+header img {
+    margin: 10px;
+}
+
+header h6 {
+    color: #50837f;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0;
+    background-color: #fff8e1;
+    padding: 10px 0;
+    text-align: center;
+    border-top: 1px solid #ffd56e;
+}
+  
+main {
+    max-width: 600px;
+    margin-left: 65px;
+    padding: 20px;
+  
+}
+  
+main h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+}
+  
+main p {
+    margin: 10px 0;
+}
+
+#fotografa {
+    text-align: center;
+    color: lightgrey;
+}
+
+#primoLink p {
+    color: red;
+}
+#primoLink {
+    border-left: solid 1px #ffdf8e;
+    padding-left: 10px;
+}
+  
+main img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+  
+main h3 {
+    font-size: 22px;
+    color: #333;
+    border-bottom: 2px solid #c3f3f2;;
+    padding-bottom: 10px;
+}
+  
+  
+a {
+    color: #50837f;
+}
+ 
+
+  
